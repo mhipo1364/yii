@@ -1,0 +1,11 @@
+راهنمای Yii
+===========================
+
+این آموزش تحت شرایط [اسناد Yii ]منتشر میشود(http://www.yiiframework.com/doc/terms/)
+
+کلیه حقوق محفوظ است.
+
+2008-2010 &copy; Yii Software LLC.
+
+
+<div class="revision">$Id$</div>
